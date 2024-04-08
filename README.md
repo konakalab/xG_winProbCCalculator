@@ -1,0 +1,1 @@
+- [Open with Colab](https://colab.research.google.com/github/konakalab/xG_winProbCalculator/blob/master/xG_winProbCalculator.ipynb)
