@@ -1,1 +1,1 @@
-- [Open with Colab](https://colab.research.google.com/github/konakalab/xG_winProbCalculator/blob/master/xG_winProbCalculator.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/konakalab/xG_winProbCalculator/blob/master/xG_winProbCalculator.ipynb)
